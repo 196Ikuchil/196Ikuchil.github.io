@@ -1,1 +1,1 @@
-<?php phpinfo(); ?>
+<?php  echo $session_filename; ?>
